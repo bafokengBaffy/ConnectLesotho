@@ -63,6 +63,7 @@ To dramatically reduce graduate unemployment in Lesotho by creating a direct, ef
 To become Lesotho's leading professional networking ecosystem, driving sustainable economic growth through improved employment opportunities, talent development, and business innovation.
 
 📈 Why Career Connect Lesotho?
+
 Lesotho Focus: Tailored specifically for the local market context
 
 Graduate-Centric: Designed with recent graduates' needs in mind
@@ -643,3 +644,4 @@ Active Development: Yes
 Production Ready: Yes
 
 Maintenance: Regular updates and improvements
+
