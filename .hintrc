@@ -3,15 +3,7 @@
     "development"
   ],
   "hints": {
-    "compat-api/css": [
-      "default",
-      {
-        "ignore": [
-          "backdrop-filter",
-          "user-select"
-        ]
-      }
-    ],
+    "compat-api/css": "off",
     "compat-api/html": [
       "default",
       {
@@ -20,5 +12,13 @@
         ]
       }
     ]
-  }
+  },
+  "browserslist": [
+    "defaults",
+    "not ie 11",
+    "not chrome <= 112",
+    "not ios_saf <= 26",
+    "not safari <= 26.2",
+    "not samsung <= 29"
+  ]
 }
