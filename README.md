@@ -74,6 +74,8 @@ Local Business Insights: Lesotho-specific market data and analytics
 
 Cost Effectiveness: Affordable solutions for local businesses and job seekers
 
+
+
 👥 Target Users
 This section identifies the primary users of the platform
 
@@ -88,6 +90,8 @@ Students seeking internships and work experience
 
 Professionals looking for networking opportunities
 
+
+
 🏢 Companies & Employers
 Local Lesotho businesses across all industries
 
@@ -101,6 +105,8 @@ Non-profit organizations and NGOs
 
 Recruitment and staffing agencies
 
+
+
 👑 Administrators & Moderators
 Platform administrators
 
@@ -109,6 +115,8 @@ Content moderators
 System operators
 
 Data analysts
+
+
 
 ✨ Key Features
 This section details the platform's core features
@@ -140,6 +148,8 @@ Document Management: Support for CVs, certificates, portfolios, and reference le
 
 Comprehensive Analytics: Real-time dashboard and employment market reports
 
+
+
 🏗️ Architecture
 This section describes the system architecture
 
@@ -151,6 +161,8 @@ Core collections include Users, Students, Companies, Jobs, and Applications with
 
 API Architecture
 RESTful API organized by resource types with versioning. Separate endpoints for authentication, student operations, company operations, job management, and analytics.
+
+
 
 🛠️ Tech Stack
 This section lists the technologies used in the project
@@ -211,6 +223,8 @@ Cloudinary - Media storage and content delivery
 
 Vercel - Alternative frontend hosting platform
 
+
+
 🚀 Getting Started
 This section provides quick start instructions
 
@@ -242,6 +256,8 @@ Run development servers for frontend and backend
 
 Verify installation by accessing the application in browser
 
+
+
 📁 Project Structure
 This section explains the project's directory organization
 
@@ -269,6 +285,8 @@ frontend/src/pages/ - Page-level components
 frontend/src/services/ - API service layer
 
 frontend/src/utils/ - Helper functions and utilities
+
+
 
 🔧 Installation & Setup
 This section provides detailed setup instructions
@@ -301,6 +319,8 @@ Application features and limits
 
 Verification Tests
 Basic health checks to confirm successful installation including API endpoints, database connectivity, and frontend rendering.
+
+
 
 🌐 Deployment
 This section covers deployment to production
@@ -347,6 +367,8 @@ Performance optimization
 
 Health Monitoring
 Built-in health check endpoints for monitoring application status, database connectivity, and system metrics.
+
+
 
 📊 API Documentation
 This section describes the API endpoints
@@ -401,6 +423,8 @@ Instant status updates
 
 Interview scheduling coordination
 
+
+
 🔒 Security Features
 This section outlines security measures implemented
 
@@ -449,6 +473,8 @@ X-Frame-Options for clickjacking protection
 
 X-Content-Type-Options to prevent MIME sniffing
 
+
+
 🧪 Testing
 This section describes the testing approach
 
@@ -477,6 +503,8 @@ Supertest for API endpoint testing
 Mock service workers for API mocking
 
 Coverage reporting with Istanbul
+
+
 
 🤝 Contributing
 This section guides potential contributors
@@ -527,6 +555,8 @@ Environment details
 
 Screenshots when applicable
 
+
+
 📞 Contact & Attribution
 This section provides contact information
 
@@ -564,6 +594,8 @@ Open source community for tools and libraries
 
 Early beta testers and contributors
 
+
+
 📄 License
 This section specifies the software license
 
@@ -590,6 +622,8 @@ No liability
 No warranty
 
 The MIT License is permissive and allows for flexibility in how the software can be used, modified, and distributed.
+
+
 
 🙏 Acknowledgments
 This section thanks contributors and inspirations
@@ -625,6 +659,8 @@ The open-source community
 
 All contributors to the project
 
+
+
 🚀 Quick Links
 Live Demo: http://career-connect-lesotho.web.app/
 
@@ -633,6 +669,7 @@ GitHub Repository: https://github.com/bafokengBaffy/ConnectLesotho
 Issue Tracker: https://github.com/bafokengBaffy/ConnectLesotho/issues
 
 API Documentation: Available in the docs directory
+
 
 📈 Project Status
 Current Version: 1.0.0
@@ -644,4 +681,5 @@ Active Development: Yes
 Production Ready: Yes
 
 Maintenance: Regular updates and improvements
+
 
